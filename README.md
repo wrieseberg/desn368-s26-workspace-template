@@ -25,7 +25,20 @@ You're viewing the instructor's course repository(repo). This serves as your ref
 👉 **Navigate to the setup folder** → **Click on `ONBOARDING-CHECKLIST.md`**  
 *You can find the setup folder in the file navigator to your right, or [click here to go directly to your checklist](setup/ONBOARDING-CHECKLIST.md).*
 
-### **Step 2: Update This README**
+### **Step 2: Create Your Onboarding Issues**
+This repo includes an automated workflow that creates setup issues in your fork — one for each onboarding step, with checkboxes to track your progress.
+
+**How to activate:**
+1. In **your forked repo**, click the **Actions** tab at the top of the page
+2. You'll see a message: *"Workflows aren't being run on this forked repository."* Click **"I understand my workflows, go ahead and enable them"**
+3. In the left sidebar, click **"🚀 Create Onboarding Issues"**
+4. Click the **"Run workflow"** dropdown button (right side of the page)
+5. Click the green **"Run workflow"** button
+6. Wait about 30 seconds, then go to your **Issues** tab — you'll see 7 setup issues, one for each step
+
+Work through the issues in order, checking off tasks and closing each issue as you finish.
+
+### **Step 3: Update This README**
 As you complete each tool setup, **come back and update the "My Toolkit" section below** with your actual profile links.
 
 ---
