@@ -3,10 +3,11 @@
 This folder contains major course projects and assignments.
 
 ## Project List
-- [ ] Project 1: The Web Then & Now
-- [ ] Project 2: [Coming Soon]
-- [ ] Project 3: [Coming Soon]
-- [ ] Final Portfolio
+- [ ] Project 1: Th3 W3b Th3n & N0w // Tim3 Trav3l Thr0ugh D35ign
+- [ ] Project 2: Tribute Page
+- [ ] Project 3: Interactive Field Guide
+- [ ] Project 4: Product Landing Page
+- [ ] Project 5: Final Portfolio
 
 ## Submission Guidelines
 1. Create a folder for each project
