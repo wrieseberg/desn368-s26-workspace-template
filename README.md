@@ -2,11 +2,7 @@
 Travis Masingale · Spring 2026
 
 **Welcome to DESN368 Web Design!**
-You’re using this template to create your own personal workspace. Think of it like this:
-- **This template repo** = Course textbook (reference source for all course materials)
-- **Your repo** = Your notebook (where you do all your work)
-
-**You’re in the right place!** Follow the steps below to get started.
+This is your course workspace — the place where all your code, designs, and projects live. By the end of the quarter, this repo becomes your portfolio.
 
 ---
 
@@ -23,7 +19,7 @@ Before anything else — make your profile presentable.
 ### **Step 2: 🗂️ Create Your Workspace**
 👉 Click **"Use this template"** → **"Create a new repository"** at the top of this page.
 
-Your new repository becomes your personal workspace. Throughout the quarter, you’ll add your work here — code, designs, and projects. By quarter’s end, your workspace has grown into your portfolio.
+Name your repo something professional — this URL will be part of your portfolio.
 
 ### **Step 3: 🚀 Run the Onboarding Workflow**
 Your repo includes an automated workflow that creates setup issues — one for each remaining tool, with checkboxes to track your progress.
@@ -62,7 +58,7 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 ### **How to Update Your Toolkit:**
 1. **Click the pencil icon** (✏️) at the top right of this README
 2. Replace the placeholder text with your actual profile information:
-   - Change `[Add your repository URL here]` → `https://github.com/YourUsername/desn368-s26-workspace-template`
+   - Change `[Add your repository URL here]` → `https://github.com/YourUsername/your-repo-name`
    - Change `[Add your Figma username here]` → your Figma username
    - Change `[Add your CodePen profile URL here]` → `https://codepen.io/YourUsername`
    - Change `[Confirm approval status here]` → `Approved` or `Pending` for GitHub Pack
@@ -99,7 +95,7 @@ Here’s what’s in your portfolio repository:
 
 ## 🔗 **Course Resources**
 ### **Primary Course Hub**
-- **📌 Milanote Course Home** - [Course board with assignments & resources](https://app.milanote.com/your-course-board-id)
+- **📌 Milanote Course Home** - [Course board with assignments & resources](https://app.milanote.com/1W6e931MhvTVaN?p=1kaC1j7112i)
 
 ### **Learning Platforms**
 - **📚 Canvas LMS** - [Grades and official submissions](https://canvas.ewu.edu)
