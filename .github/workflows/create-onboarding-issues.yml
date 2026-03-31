@@ -51,48 +51,11 @@ jobs:
           script: |
             const issues = [
               {
-                title: 'Step 1: Create GitHub Account',
+                title: 'Step 1: Personalize Your Workspace',
                 labels: ['onboarding', 'setup'],
-                body: `## Create Your GitHub Account
+                body: `## Personalize Your Workspace
 
-            Set up your GitHub account for the course.
-
-            ### Tasks
-            - [ ] Go to [github.com/join](https://github.com/join)
-            - [ ] Sign up with your **@ewu.edu** email address
-            - [ ] Choose a **professional username** (this becomes part of your portfolio URL)
-            - [ ] Verify your email address
-
-            ### Why this matters
-            Your GitHub account is the foundation of your professional web presence. Choose your username carefully — it will appear in every project URL you share.
-
-            ---
-            > Close this issue when you're done!`
-              },
-              {
-                title: 'Step 2: Set Up Your GitHub Profile',
-                labels: ['onboarding', 'setup'],
-                body: `## Set Up Your GitHub Profile
-
-            Make your GitHub profile presentable and professional.
-
-            ### Tasks
-            - [ ] Click your avatar (top right) → **Your profile**
-            - [ ] Click **Edit profile**
-            - [ ] Add your **real name** (so the instructor knows who you are)
-            - [ ] Add a **bio** (e.g., "DESN368 Student | Learning Web Design")
-            - [ ] Add a **profile photo** (helps the instructor learn names)
-            - [ ] Optionally add your location and website
-
-            ---
-            > Close this issue when you're done!`
-              },
-              {
-                title: 'Step 3: Set Up Your Workspace',
-                labels: ['onboarding', 'setup'],
-                body: `## Set Up Your Workspace
-
-            You've already created your repo from the template — nice work! Now it's time to personalize it.
+            You've already created your repo from the template — nice work! Now it's time to make it yours.
 
             ### Tasks
             - [ ] In your repo, edit \`README.md\`
@@ -103,7 +66,7 @@ jobs:
             > Close this issue when you're done!`
               },
               {
-                title: 'Step 4: Figma Education Setup',
+                title: 'Step 2: Figma Education Setup',
                 labels: ['onboarding', 'setup'],
                 body: `## Figma Education Setup
 
@@ -122,7 +85,7 @@ jobs:
             > Close this issue when you're done!`
               },
               {
-                title: 'Step 5: CodePen Setup',
+                title: 'Step 3: CodePen Setup',
                 labels: ['onboarding', 'setup'],
                 body: `## CodePen Setup
 
@@ -139,7 +102,7 @@ jobs:
             > Close this issue when you're done!`
               },
               {
-                title: 'Step 6: GitHub Student Developer Pack',
+                title: 'Step 4: GitHub Student Developer Pack',
                 labels: ['onboarding', 'setup'],
                 body: `## GitHub Student Developer Pack
 
@@ -159,7 +122,7 @@ jobs:
             > Close this issue once you've been approved!`
               },
               {
-                title: 'Step 7: Complete Setup Verification',
+                title: 'Step 5: Complete Setup Verification',
                 labels: ['onboarding', 'verification'],
                 body: `## Complete Setup Verification
 

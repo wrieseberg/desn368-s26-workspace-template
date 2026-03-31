@@ -6,37 +6,39 @@ You’re using this template to create your own personal workspace. Think of it 
 - **This template repo** = Course textbook (reference source for all course materials)
 - **Your repo** = Your notebook (where you do all your work)
 
-**You’re in the right place!** Use this template to get started with the DESN368 course.
-
-**What happens next:**
-1. Use this template to create your own repository
-2. Your new repository becomes your personal workspace
-3. Throughout the quarter, you'll add your work here — code, designs, and projects
-4. By quarter's end, your workspace has grown into your portfolio
-
-👉 Ready to create your workspace? Click **"Use this template"** → **"Create a new repository"** in the top right! →
+**You’re in the right place!** Follow the steps below to get started.
 
 ---
 
 ## 🚀 **NEXT STEPS - START HERE!**
-### **Step 1: Complete Your Tool Setup**
-👉 **Navigate to the setup folder** → **Click on `ONBOARDING-CHECKLIST.md`**  
-*You can find the setup folder in the file navigator to your right, or [click here to go directly to your checklist](setup/ONBOARDING-CHECKLIST.md).*
 
-### **Step 2: Create Your Onboarding Issues**
-This repo includes an automated workflow that creates setup issues in your repository — one for each onboarding step, with checkboxes to track your progress.
+### **Step 1: 🐙 Set Up Your GitHub Profile**
+Before anything else — make your profile presentable.
 
-**How to activate:**
-1. In **your repository**, click the **Actions** tab at the top of the page
+1. Click your avatar (top right) → **Your profile** → **Edit profile**
+2. Add your **real name** (so I know who you are!)
+3. Add a **bio** (e.g., "DESN368 Student | Learning Web Design")
+4. Add a **profile photo** (helps me learn names!)
+
+### **Step 2: 🗂️ Create Your Workspace**
+👉 Click **"Use this template"** → **"Create a new repository"** at the top of this page.
+
+Your new repository becomes your personal workspace. Throughout the quarter, you’ll add your work here — code, designs, and projects. By quarter’s end, your workspace has grown into your portfolio.
+
+### **Step 3: 🚀 Run the Onboarding Workflow**
+Your repo includes an automated workflow that creates setup issues — one for each remaining tool, with checkboxes to track your progress.
+
+1. In **your new repository**, click the **Actions** tab
 2. In the left sidebar, click **"🚀 Create Onboarding Issues"**
-3. Click the **"Run workflow"** dropdown button (right side of the page)
-4. Click the green **"Run workflow"** button
-5. Wait about 30 seconds, then go to your **Issues** tab — you'll see 7 setup issues, one for each step
+3. Click the **"Run workflow"** dropdown → click the green **"Run workflow"** button
+4. Wait about 30 seconds, then go to your **Issues** tab — you’ll see setup issues for Figma, CodePen, and more
 
 Work through the issues in order, checking off tasks and closing each issue as you finish.
 
-### **Step 3: Update This README**
+### **Step 4: 📝 Update This README**
 As you complete each tool setup, **come back and update the "My Toolkit" section below** with your actual profile links.
+
+📋 You can also find the full setup checklist at [setup/ONBOARDING-CHECKLIST.md](setup/ONBOARDING-CHECKLIST.md).
 
 ---
 
