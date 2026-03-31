@@ -88,19 +88,16 @@ jobs:
             > Close this issue when you're done!`
               },
               {
-                title: 'Step 3: Fork & Set Up Your Workspace',
+                title: 'Step 3: Set Up Your Workspace',
                 labels: ['onboarding', 'setup'],
-                body: `## Fork & Set Up Your Workspace
+                body: `## Set Up Your Workspace
 
-            Create your personal copy of the course repository.
+            You've already created your repo from the template — nice work! Now it's time to personalize it.
 
             ### Tasks
-            - [ ] Go to the [course template repo](https://github.com/sicxz/desn368-s26-workspace-template) and click **Fork**
-            - [ ] In your forked repo, edit \`README.md\`
+            - [ ] In your repo, edit \`README.md\`
             - [ ] Update the **My Toolkit** section with your GitHub profile link
             - [ ] Commit your changes
-
-            > **Note:** If you can see this issue, you've already forked the repo! Check off the first task.
 
             ---
             > Close this issue when you're done!`
@@ -115,7 +112,7 @@ jobs:
             ### Tasks
             - [ ] Apply for Figma Education at [figma.com/education/apply](https://www.figma.com/education/apply) using your **@ewu.edu** email
             - [ ] Upload your **EWU student ID** and **EagleNet screenshot** as verification
-            - [ ] Join the course Figma team: [Team Invite Link](https://www.figma.com/team_invite/redeem/0hBGYGZVHWrikEI5GB0Y4F) (password: \`spring25\`)
+            - [ ] Join the course Figma team: [Figma Team Invite](https://www.figma.com/team_invite/redeem/x4YhkxdsvcOhUte2KX7Zwm?t=MxznjhsFuM43uNyb-21)
             - [ ] Update your \`README.md\` **My Toolkit** section with your Figma username
 
             ### Why this matters
@@ -169,9 +166,9 @@ jobs:
             Final check — make sure everything is connected and your workspace is complete.
 
             ### Tasks
-            - [ ] Open your forked repo's \`README.md\` and confirm **My Toolkit** has:
+            - [ ] Open your repo's \`README.md\` and confirm **My Toolkit** has:
               - [ ] GitHub profile link
-              - [ ] Forked repo URL
+              - [ ] Repo URL
               - [ ] Figma username
               - [ ] CodePen URL
               - [ ] LiveCode profile link
