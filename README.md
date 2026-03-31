@@ -11,7 +11,7 @@ You’re using this template to create your own personal workspace. Think of it 
 **What happens next:**
 1. Use this template to create your own repository
 2. Your new repository becomes your personal workspace
-3. Each week, new assignments appear here and you complete them
+3. Each week, you’ll add your work here — code, designs, and projects
 4. By quarter’s end, your workspace transforms into a portfolio
 
 👉 Ready to create your workspace? Click **"Use this template"** → **"Create a new repository"** in the top right! →
