@@ -1,6 +1,6 @@
 # Wendy Rieseberg - DESN 368 Portfolio
 
-## AboutI
+## About
 I’m a design student at Eastern Washington University.
 This repository contains my work, exercises, and progress from DESN 368 
 as I learn web design and development
