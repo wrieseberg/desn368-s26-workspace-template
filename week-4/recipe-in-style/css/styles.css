@@ -1,0 +1,31 @@
+/* cener content container */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}   
+
+body {
+    background-color: #f3e8ff;
+}   
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: indigo;
+}
+
+h2 {
+    font-size: 24px;
+    color: indigo;
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin: 20px auto;
+}
+
+h1, h2 {
+    font-family: 'Fascinate', cursive;
+}
