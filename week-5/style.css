@@ -13,7 +13,6 @@ body {
   font-family: 'Oswald', sans-serif;
   color: white;
   text-align: left;
-  -webkit-text-stroke: 2px black;
   margin-left: 56vh;
 }
 
@@ -29,6 +28,7 @@ body {
   font-size: 75px;
   font-weight: 900;
   line-height: .65;
+  -webkit-text-stroke: 2px black;
 }
 
 .small {
